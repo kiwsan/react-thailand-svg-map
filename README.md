@@ -1,5 +1,7 @@
 # react-thailand-svg-map
 
+Work in progress.
+
 > React.js components to display an interactive SVG map.
 
 [![NPM](https://img.shields.io/npm/v/react-thailand-svg-map.svg)](https://www.npmjs.com/package/react-thailand-svg-map) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
